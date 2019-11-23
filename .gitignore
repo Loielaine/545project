@@ -1,2 +1,4 @@
 .idea/
 venv/
+weather*
+.DS_Store
