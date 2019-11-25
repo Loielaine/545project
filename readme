@@ -1,3 +1,11 @@
-'94846' 1 chicago
-'14739' 2 boston
-'03888' 3 Atlanta
+'94846' 1 chicago [0,0,1]
+'14739' 2 boston  [0,1,0]
+'03888' 3 Atlanta [1,0,0]
+N e1
+W e2
+S e3
+E e4
+NE e5
+NW e6
+SW e7
+SE e8
