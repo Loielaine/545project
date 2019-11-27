@@ -3,7 +3,7 @@
 '03888' 3 Atlanta 
 
 Training data set Description:
-I deleted intersctionId, and transform the features('entryheading','exitheading','city) into onehotencoding,
+I deleted intersctionId for training, and transform the features('entryheading','exitheading','city) into onehotencoding,
 which are the first 19 columns, and the last 15 columns are labels (if you have any confuse, please take a 
 look at onehotenc.py)
 
