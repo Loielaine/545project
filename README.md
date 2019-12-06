@@ -8,6 +8,6 @@ LR: LR.py
 
 LSTM: LSTM.py
 
-SVR: svr.py
+SVR: svr_method.py
 
 GBT: GBT.py
