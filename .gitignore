@@ -2,5 +2,5 @@
 venv/
 weather*
 .DS_Store
-*weather.csv
-test1.py
+*.csv
+test*
