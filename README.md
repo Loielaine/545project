@@ -1,6 +1,6 @@
 # Predicting Intersection Congestion Using Geotab Data
 
-We implemented a baseline method(Linear regression) and three other methods: LSTM,SVR,and GBT.
+We implemented a baseline method(Linear regression) and three other methods: LSTM,SVR,and GBM.
 
 The files are as follows:
 
@@ -10,4 +10,4 @@ LSTM: LSTM.py
 
 SVR: svr_method.py
 
-GBT: GBT.py
+GBT: GBM3.py
